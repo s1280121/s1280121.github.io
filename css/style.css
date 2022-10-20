@@ -146,40 +146,40 @@ li {
 }
 
 /*--------------------------------
- Works
+ Apps
 ---------------------------------*/
-.works-list {
+.apps-list {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: -40px;
 }
 
-.works-item {
+.apps-item {
   width: 31.74603%;
   margin-right: 1.58730%;
   margin-bottom: 40px;
   color: #333;
 }
 
-.works-item:hover {
+.apps-item:hover {
   opacity: .9;
 }
 
-.works-item:nth-of-type(3n) {
+.apps-item:nth-of-type(3n) {
   margin-right: 0;
 }
 
-.works-img img {
+.apps-img img {
   border: 1px solid #e6e6e6;
 }
 
-.works-name {
+.apps-name {
   font-size: 12px;
   font-weight: bold;
   margin-top: 8px;
 }
 
-.works-info {
+.apps-info {
   font-size: 10px;
 }
 
@@ -254,7 +254,7 @@ li {
   color: #797979;
 }
 /*--------------------------------
- 下層：Worksページ
+ 下層：Appsページ
 ---------------------------------*/
 .article {
   padding: 80px 0;
@@ -367,16 +367,16 @@ li {
     font-size: 32px;
   }
 
-  /* Workss */
-  .works-name {
+  /* Apps */
+  .apps-name {
     font-size: 10px;
   }
 
-  .works-list {
+  .apps-list {
     justify-content: space-between;
   }
 
-  .works-item {
+  .apps-item {
     flex: 0 0 48%;
     margin-right: 0;
     margin-bottom: 30px;
