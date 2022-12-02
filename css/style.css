@@ -13,7 +13,7 @@ a {
 }
 
 img {
-  max-width: 100%;
+  max-width: 20%;
   height: auto;
   vertical-align: bottom;
   border-style: none;
@@ -155,7 +155,7 @@ li {
 }
 
 .apps-item {
-  width: 31.746030%;
+  width: 21.746030%;
   margin-right: 1.58730%;
   margin-bottom: 40px;
   color: #333;
